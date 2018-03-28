@@ -1,3 +1,8 @@
+Canvas/library/
+Canvas/*.js
+Canvas/*.html
+
+
 # Logs
 logs
 *.log
